@@ -2,7 +2,7 @@
 
 This document is a set of quick questions and generally useful FAQs.
 
-## Installation
+# Installation
 
 ### `virtualenv`
 
@@ -27,6 +27,7 @@ Please follow the [instructions](https://www.tensorflow.org/install) on the webs
 For [Chapter 14 - Building the Purrfect Cat Locator App with TensorFlow Object Detection API](https://github.com/practicaldl/Practical-Deep-Learning-Book/blob/master/code/chapter-14), please use the [`protoc.sh`](https://github.com/practicaldl/Practical-Deep-Learning-Book/blob/master/code/chapter-14/protoc.sh) script to install everything needed.
 
 #### Jupyter Notebook
+Requirements:
 
 1. Install `jupyter` inside the `virtualenv`.
 
